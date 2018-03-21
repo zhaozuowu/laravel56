@@ -76,7 +76,10 @@
                     @endauth
                 </div>
             @endif
-
+<div class="form-group">
+    <label for="opost" class="control-label">:</label>
+    <input id="post" name="post" type="text" class="form-control">
+</div>
             <div class="content">
                 <div class="title m-b-md">
                     Laravel
